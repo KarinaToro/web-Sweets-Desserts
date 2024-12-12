@@ -1,0 +1,46 @@
+body {
+    background-color: #fff3e1;
+}
+/* #fff3ei white pink*/
+/* #ffe483  yellow something*/
+/* #ffc1b6 pink something */
+/* #672618 brown something */
+.background-white {
+    background-color: #fff3e1;
+}
+.letters {
+    color: #672618;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.card-custom {
+    width: 18rem; 
+    border: radius 15px;
+    background: none;
+}
+
+.footer-text {
+    color: #672618;
+    font-size: 12px;
+}
+.text-brown-custom {
+    color: #672618;
+    font-size: 48px;
+}
+.navbar-letter {
+    color: #672618;
+    font-family: fantasy;
+    font-size: larger;
+}
+
+.nav a:hover{
+    background-color: #ffe483;
+    color: #672618;
+    
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
